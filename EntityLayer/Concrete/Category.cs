@@ -21,6 +21,5 @@ namespace EntityLayer.Concrete
 
 
         public ICollection<Heading> Headings { get; set; }
-        
     }
 }
